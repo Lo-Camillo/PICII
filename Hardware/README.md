@@ -22,12 +22,22 @@ Os seguintes componentes foram usados:
 
 A imagem a seguir demonstra o esquemático desenvolvido no software Eagle para confecção da placa. 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Esquemático](schematic.png "Esquemático")
 
 Esta próxima imagem mostra o arquivo Board, onde mostra os componentes em seus respectivos lugares na placa:
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Board](board.png "Board")
 
 Alguns detalhes importantes a serem destacados:
 
 - Na caixa desenvolvida, os botões e o visor estão posicionados voltados para fora, o que exigiu que eles fizessem parte de uma placa separada. Portanto, no esquemático, foram inseridos separadores onde, por meio de jumpers, as trilhas poderiam ser conectadas para interligar essas placas. O mesmo conceito se aplica aos conectores do motor.
+
+## Caixa
+
+Para o projeto, foi criada uma caixa em MDF. Na figura a seguir, podemos observar a estrutura dessa caixa.
+
+![Caixa](caixa.jpeg "Caixa")
+
+Com o objetivo de acomodar os comprimidos, a parte superior foi dividida em 6 compartimentos, com um deles sempre permanecendo aberto, considerado como a posição inicial do motor.
+
+A parte inferior abriga a placa de circuito impresso desenvolvida, que contém os componentes, bem como os botões e o display estão afixados nessa região.

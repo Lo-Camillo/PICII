@@ -18,6 +18,8 @@ No horário programado, um alarme tocará, e ao pressionar um botão, o comparti
 
 ## Hardware
 
-[Documentação](https://link-da-documentação)
+[Documentação](Hardware)
 
 ## Fotos & Vídeos
+
+[Acessar pasta de fotos e vídeos do projeto](Fotos&Videos)
