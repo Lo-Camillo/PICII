@@ -1,9 +1,9 @@
 
-# Porta Medicamentos Digital/Inteligente
+# Porta Medicamentos Inteligente
 
-Muitas pessoas enfrentam dificuldade  para lembrar de tomar seus medicamentos corretamente, especialmente quando têm que tomar múltiplos remédios diariamente. 
+Muitas pessoas enfrentam dificuldade  para lembrar de tomar seus medicamentos corretamente, especialmente quando têm que tomar múltiplos remédios diariamente.
 
-O porta medicamentos digital/inteligente surge como uma solução para ajudar a superar esses desafios.
+O porta medicamentos inteligente surge como uma solução para ajudar a superar esses desafios.
 
 ## Como funciona?
 
@@ -16,10 +16,16 @@ No horário programado, um alarme tocará, e ao pressionar um botão, o comparti
 
 ## Software
 
+- [Código fonte e documentação do aplicativo](App).
+
+- [Código fonte e documentação da API](Api).
+
+- [Código fonte e documentação da ESP8266](Esp8266).
+
 ## Hardware
 
-[Documentação](Hardware)
+- [Documentação do hardware do projeto](Hardware_doc).
 
 ## Fotos & Vídeos
 
-[Acessar pasta de fotos e vídeos do projeto](Fotos&Videos)
+- [Acessar pasta de fotos e vídeos do projeto](Fotos&Videos).
