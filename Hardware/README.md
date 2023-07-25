@@ -36,7 +36,7 @@ Alguns detalhes importantes a serem destacados:
 
 Para o projeto, foi criada uma caixa em MDF. Na figura a seguir, podemos observar a estrutura dessa caixa.
 
-![Caixa](caixa.png "Caixa")
+![Caixa](Caixa.png "Caixa")
 
 Com o objetivo de acomodar os comprimidos, a parte superior foi dividida em 6 compartimentos, com um deles sempre permanecendo aberto, considerado como a posição inicial do motor.
 
