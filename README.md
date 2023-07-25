@@ -16,11 +16,11 @@ No horário programado, um alarme tocará, e ao pressionar um botão, o comparti
 
 ## Software
 
-- [Código fonte e documentação do aplicativo](App).
+- [Código fonte e documentação do aplicativo](https://github.com/giselle-lab/porta-comprimidos).
 
-- [Código fonte e documentação da API](Api).
+- [Código fonte e documentação da API](https://github.com/AryelleSiqueira/pillbox-api.git).
 
-- [Código fonte e documentação da ESP8266](Esp8266).
+- [Código fonte e documentação da ESP8266](https://github.com/AryelleSiqueira/porta-medicamentos-esp8266.git).
 
 ## Hardware
 
