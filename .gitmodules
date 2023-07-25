@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/AryelleSiqueira/pillbox-api.git
+[submodule "esp8266-code"]
+	path = esp8266-code
+	url = https://github.com/AryelleSiqueira/porta-medicamentos-esp8266.git
