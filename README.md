@@ -1,5 +1,6 @@
 
 # Porta Medicamentos Inteligente
+#### Grupo: Aryelle Siqueira, Giselle Pereira e Lohayne Camillo
 
 Muitas pessoas enfrentam dificuldade  para lembrar de tomar seus medicamentos corretamente, especialmente quando têm que tomar múltiplos remédios diariamente.
 
